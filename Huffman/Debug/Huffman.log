@@ -1,0 +1,4 @@
+﻿  Huffman.c
+C:\Users\minku\source\repos\Huffman\Huffman.c(91,11): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\minku\source\repos\Huffman\Huffman.c(96,12): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Huffman.vcxproj -> C:\Users\minku\source\repos\Huffman\Debug\Huffman.exe

@@ -1,0 +1,3 @@
+﻿  소스.c
+C:\Users\minku\source\repos\Project7\소스.c(13): warning C4172: 지역 변수 또는 임시: scores의 주소를 반환하고 있습니다.
+  Project7.vcxproj -> C:\Users\minku\source\repos\Project7\Debug\Project7.exe

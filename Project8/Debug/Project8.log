@@ -1,0 +1,4 @@
+﻿  소스.c
+C:\Users\minku\source\repos\Project8\소스.c(14): warning C4716: 'CreateListInstance': 값을 반환해야 합니다.
+C:\Users\minku\source\repos\Project8\소스.c(13): warning C4716: 'CreateNodeInstance': 값을 반환해야 합니다.
+  Project8.vcxproj -> C:\Users\minku\source\repos\Project8\Debug\Project8.exe
